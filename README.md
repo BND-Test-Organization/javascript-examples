@@ -1,4 +1,4 @@
-<img alt="Convergence Logo" height="80" src="https://convergence.io/assets/img/convergence-logo.png" >
+<img alt="Convergence Logo" height="80" src="https://convergence.io/assets/img/convergence-logo.png" > Changes done
 
 # Convergence Examples
 
